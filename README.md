@@ -1,2 +1,2 @@
-# HTML-crashcourse
-Some very basics with HTML
+# HTML-CSS crashcourse
+Some very basics with HTML and CSS elements
